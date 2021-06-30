@@ -3,7 +3,7 @@ JTechLog OAuth 2.0 Spring Boot és a Spring Security keretrendszerekkel
 
 Ez a program a JTechLog (<https://jtechlog.hu>) blog "OAuth 2.0 Spring Boot és a Spring Security keretrendszerekkel" cikkéhez készült példaprogram.
 Egy bevezetést nyújt hogy lehet Keycloak Authorization Serverhez OAuth 2.0-val csatlakozni Spring Boot alkalmazásból. 
-A futtatáshoz futó és konfigurált Keycloak szükséges, melynek menetét megtalálod a blogban.
+A futtatáshoz futó és konfigurált Keycloak szükséges, melynek menetét megtalálod a blogban (https://www.jtechlog.hu/2020/02/19/spring-oauth2.html).
 Mavennel buildelhető, és a letöltést követően az
 'mvn spring-boot:run' paranccsal futtatható az alkalmazás.
 
